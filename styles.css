@@ -1,0 +1,71 @@
+.container{
+    margin: 0 auto;
+    width: 680px;
+    height: auto;
+    border: #f3f3f3 solid 1px;
+}
+
+.clearfix:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+
+.header{
+    height: 120px;
+    background: url("img/diags.jpg") repeat-x top #bbbbbb;
+}
+
+.sitelogo{
+    width: auto;
+    margin-left: auto;
+    padding: 40px 20px 0;
+    text-align: right;
+}
+
+.sitename{
+    font-weight: bold;
+    font-size: xx-large;
+    letter-spacing: 3px;
+    color: #dc8101;
+}
+
+.siteslog{
+    font-size: small;
+    color: #00abf3;
+}
+
+.sidebar{
+    width: 200px;
+    height: 600px;
+    float: left;
+    background-color: #00abf3;
+}
+
+.content{
+    width: 480px;
+    height: auto;
+    float: right;
+    background-color: #bbbbbb;
+}
+
+.menu{
+    width: auto;
+    height: 40px;
+    align-content: center;
+    background-color: blueviolet;
+}
+.main-menu{
+    margin: 0;
+    align-content: center;
+}
+.main-menu li{
+    display: inline-block;
+    margin: 10px 5px;
+}
+.articles{
+    width: auto;
+    height: 300px;
+    background-color: blue;
+}
+
