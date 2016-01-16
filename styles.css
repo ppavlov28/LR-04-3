@@ -60,6 +60,7 @@
     align-content: center;
 }
 .main-menu li{
+    text-decoration: none;
     display: inline-block;
     margin: 10px 5px;
 }
