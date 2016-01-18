@@ -1,0 +1,27 @@
+header{
+  width: 680px;
+  height: 120px;
+//  border: red solid 1px;
+  margin: 0 auto;
+  background: url(img/diags.jpg) repeat-x top;
+}
+
+.sitelogo{
+  display: inline-block;
+  float: right;
+  text-align: right;
+  margin: 40px 20px 0 0;
+}
+
+.sitename{
+  color: #DC8101;
+  font-weight: 700;
+  font-size: xx-large;
+  letter-spacing: 2px;
+}
+
+.siteslog{
+  color: #00abf3;
+  font-family: sans-serif;
+  font-size: small;
+}
