@@ -8,8 +8,8 @@ nav{
 
 ul{
   list-style: none;
-//  margin: 0 auto;
-//  padding-left: 0;
+  margin: 0 auto; //Надо бы закомментировать.
+  padding-left: 0;
 }
 
 a{
