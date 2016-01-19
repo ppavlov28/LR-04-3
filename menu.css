@@ -15,7 +15,7 @@ ul{
 a{
   text-decoration: none;
   display: block;
-  border: green solid 1px;
+  border-top: green solid 1px;
   padding: 5px;
 }
 
