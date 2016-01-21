@@ -63,7 +63,7 @@ aside{
     font-size: 16px;
 //    margin: 0;
 //    padding: 6px;
-    color: #007cae;
+    color: #00abf3;
 }
 
 .aside-caption>p{
@@ -169,7 +169,7 @@ Content Section
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color: #007cae;
+    color: #00abf3;
 }
 
 .respect{
@@ -190,3 +190,22 @@ Content Section
     color: gray;
 }
 
+/*
+Footer Section
+=================================================
+*/
+
+footer{
+    margin: 10px 0;
+    padding: 5px 0;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: black;
+    background: url(img/diags.jpg) repeat-x top;
+}
+
+footer>a{
+    text-decoration: none;
+    color: black;
+}
